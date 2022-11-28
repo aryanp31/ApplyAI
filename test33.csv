@@ -1,0 +1,263 @@
+landmark number,continent,id
+1,Asia,00102
+2,Asia,00201 
+3,Asia,00304
+4,Asia,00402
+5,Asia,00502
+6,Asia,00603
+7,Asia,00702
+8,Asia,00805
+9,Asia,00905
+10,Asia,01003
+11,Asia,01101 
+12,Asia,01202
+13,Asia,01303
+14,Asia,01401 
+15,Asia,01504
+16,Asia,01603
+17,Asia,01704
+18,Asia,01805
+19,Asia,01902
+20,Asia,02005
+21,Asia,02105
+22,Asia,02202
+23,Asia,02302
+24,Asia,02401 
+25,Asia,02502
+26,Asia,02603
+27,Asia,02701 
+28,Asia,02804
+29,Asia,02901 
+30,Asia,03005
+31,Asia,03102
+32,Asia,03202
+33,Asia,03301 
+34,Asia,03403
+35,Asia,03501 
+36,Asia,03605
+37,Asia,03701 
+38,Asia,03801 
+39,Asia,03903
+40,Asia,04005
+41,Asia,04104
+42,Asia,04201 
+43,Asia,04304
+44,Asia,04403
+45,Asia,04501 
+46,Asia,03605
+47,Asia,04703
+48,Asia,04802
+49,Asia,04901 
+50,Asia,05003
+51,Asia,05104
+52,Asia,05201 
+53,Asia,05301 
+54,Asia,05405
+55,Asia,05504
+56,Asia,05604
+57,Asia,05703
+58,Asia,05801 
+59,Asia,05905
+60,Asia,06004
+61,Asia,06101 
+62,Asia,06204
+63,Asia,06303
+64,Asia,06402
+65,Asia,06503
+66,Asia,06603
+67,Asia,06702
+68,Asia,06801 
+69,Asia,06905
+70,Asia,07001 
+71,Asia,07105
+72,Asia,07205
+73,Asia,07301 
+74,Asia,07402
+75,Asia,07504
+76,Asia,07605
+77,Asia,07702
+78,Asia,07801 
+79,Asia,07902
+80,Asia,08002
+81,Asia,08103
+82,Asia,08205
+83,Asia,08302
+84,Asia,08403
+85,Asia,08501 
+86,Asia,08605
+87,Asia,08702
+88,Asia,08805
+89,Asia,08901 
+90,Asia,09005
+91,Asia,09104
+92,Asia,09204
+93,Asia,09303
+94,Asia,09402
+95,Asia,09503
+96,Asia,09602
+97,Asia,09704
+98,Asia,09803
+99,Asia,09903
+100,Asia,10002
+101,Asia,10102
+102,Asia,10205
+103,Asia,10303
+104,Asia,10405
+105,Asia,10504
+106,Asia,10605
+107,Asia,10705
+108,Asia,10801 
+109,Asia,10901 
+110,Asia,11005
+111,Asia,11102
+112,Asia,11201 
+113,Asia,11302
+114,Asia,11405
+115,Asia,11504
+116,Asia,11604
+117,Asia,11701 
+118,Asia,11803
+119,Asia,11902
+120,Asia,12002
+121,Asia,12103
+122,Asia,12202
+123,Asia,12305
+124,Asia,12405
+125,Asia,12505
+126,Asia,12601 
+127,Asia,12704
+128,Asia,12805
+129,Asia,12903
+130,Asia,13005
+131,Asia,13104
+132,Asia,13202
+133,Asia,13303
+134,Asia,13402
+135,Asia,13503
+136,Asia,13605
+137,Asia,13704
+138,Asia,13805
+139,Asia,13901 
+140,Asia,14002
+141,Asia,14101 
+142,Asia,14205
+143,Asia,14303
+144,Asia,14405
+145,Asia,14504
+146,Asia,14603
+147,Asia,14702
+148,Asia,14803
+149,Asia,14902
+150,Asia,15004
+151,Asia,15102
+152,Asia,15202
+153,Asia,15301 
+154,Asia,15403
+155,Asia,15502
+181,Africa,18104
+182,Africa,18201 
+183,Africa,18304
+184,Africa,18404
+185,Africa,18503
+186,Africa,18602
+187,Africa,18704
+188,Africa,18801 
+189,Africa,18903
+190,Africa,19005
+191,Africa,19102
+192,Africa,19201 
+193,Africa,19302
+194,Africa,19405
+195,Africa,19504
+196,Africa,19602
+197,Africa,19702
+198,Africa,19801 
+199,Africa,19901 
+200,Africa,20005
+201,Africa,20105
+202,Africa,20202
+203,Africa,20302
+204,Africa,20404
+205,Africa,20502
+206,Africa,20601 
+207,Africa,20701 
+208,Africa,20802
+209,Africa,20901 
+210,Africa,21005
+211,Africa,21104
+212,Africa,21205
+213,Africa,21302
+214,Africa,21403
+215,Africa,21502
+216,Africa,21603
+217,Africa,21702
+218,Africa,21805
+219,Africa,21902
+220,Africa,22003
+221,Africa,22104
+222,Africa,22205
+232,Europe,23201 
+233,Europe,23304
+234,Europe,23401 
+235,Europe,23501 
+236,Europe,23603
+237,Europe,23703
+238,Europe,23801 
+239,Europe,23901 
+240,Europe,24001 
+241,Europe,24104
+242,Europe,24203
+243,Europe,24304
+244,Europe,24405
+245,Europe,24502
+246,Europe,24605
+247,Europe,24703
+248,Europe,24801 
+249,Europe,24903
+250,Europe,25003
+251,Europe,25102
+252,Europe,25201 
+253,Europe,25303
+254,Europe,25403
+259,South America,25901 
+260,South America,26004
+261,South America,26105
+262,South America,26201 
+263,South America,26304
+264,South America,26401 
+265,South America,26503
+266,South America,26602
+267,South America,26701 
+268,South America,26805
+269,South America,26901 
+270,South America,27005
+271,South America,27104
+272,South America,27204
+273,South America,27305
+274,South America,27402
+275,South America,27503
+276,South America,27601 
+277,South America,27701 
+278,South America,27801 
+279,South America,27902
+280,South America,28001 
+281,South America,28105
+282,South America,28204
+283,North America,28302
+284,North America,28404
+285,North America,28504
+286,North America,28601 
+287,North America,28705
+288,North America,28803
+289,North America,28904
+290,North America,29001 
+291,North America,29103
+292,North America,29202
+293,North America,29303
+294,North America,29402
+295,North America,29501 
+296,North America,29601 
+297,North America,29703
+298,Oceania,29801 
+299,Oceania,29902
+300,Oceania,30002

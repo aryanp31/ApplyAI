@@ -1,0 +1,787 @@
+landmark number,continent,id
+1,Asia,00103
+1,Asia,00101 
+1,Asia,00102
+2,Asia,00205
+2,Asia,00203
+2,Asia,00201 
+3,Asia,00304
+3,Asia,00302
+3,Asia,00305
+4,Asia,00402
+4,Asia,00405
+4,Asia,00401 
+5,Asia,00505
+5,Asia,00503
+5,Asia,00504
+6,Asia,00603
+6,Asia,00605
+6,Asia,00604
+7,Asia,00705
+7,Asia,00701 
+7,Asia,00703
+8,Asia,00802
+8,Asia,00805
+8,Asia,00801 
+9,Asia,00902
+9,Asia,00904
+9,Asia,00903
+10,Asia,01002
+10,Asia,01003
+10,Asia,01004
+11,Asia,01104
+11,Asia,01103
+11,Asia,01105
+12,Asia,01201 
+12,Asia,01202
+12,Asia,01205
+13,Asia,01301 
+13,Asia,01303
+13,Asia,01304
+14,Asia,01404
+14,Asia,01403
+14,Asia,01401 
+15,Asia,01503
+15,Asia,01501 
+15,Asia,01502
+16,Asia,01602
+16,Asia,01601 
+16,Asia,01603
+17,Asia,01704
+17,Asia,01703
+17,Asia,01702
+18,Asia,01803
+18,Asia,01802
+18,Asia,01805
+19,Asia,01901 
+19,Asia,01902
+19,Asia,01905
+20,Asia,02003
+20,Asia,02001 
+20,Asia,02002
+21,Asia,02105
+21,Asia,02102
+21,Asia,02104
+22,Asia,02205
+22,Asia,02202
+22,Asia,02204
+23,Asia,02304
+23,Asia,02301 
+23,Asia,02305
+24,Asia,02404
+24,Asia,02402
+24,Asia,02403
+25,Asia,02505
+25,Asia,02503
+25,Asia,02504
+26,Asia,02602
+26,Asia,02603
+26,Asia,02605
+27,Asia,02701 
+27,Asia,02705
+27,Asia,02704
+28,Asia,02802
+28,Asia,02801 
+28,Asia,02804
+29,Asia,02905
+29,Asia,02901 
+29,Asia,02904
+30,Asia,03003
+30,Asia,03004
+30,Asia,03005
+31,Asia,03102
+31,Asia,03105
+31,Asia,03104
+32,Asia,03202
+32,Asia,03205
+32,Asia,03204
+33,Asia,03304
+33,Asia,03303
+33,Asia,03302
+34,Asia,03403
+34,Asia,03405
+34,Asia,03404
+35,Asia,03505
+35,Asia,03502
+35,Asia,03504
+36,Asia,03603
+36,Asia,03605
+36,Asia,03602
+37,Asia,03704
+37,Asia,03705
+37,Asia,03701 
+38,Asia,03805
+38,Asia,03802
+38,Asia,03803
+39,Asia,03905
+39,Asia,03901 
+39,Asia,03904
+40,Asia,04001 
+40,Asia,04003
+40,Asia,04002
+41,Asia,04104
+41,Asia,04102
+41,Asia,04105
+42,Asia,04202
+42,Asia,04205
+42,Asia,04204
+43,Asia,04302
+43,Asia,04301 
+43,Asia,04303
+44,Asia,04405
+44,Asia,04401 
+44,Asia,04404
+45,Asia,04505
+45,Asia,04504
+45,Asia,04502
+46,Asia,03605
+46,Asia,04603
+46,Asia,04602
+47,Asia,04701 
+47,Asia,04702
+47,Asia,04705
+48,Asia,04805
+48,Asia,04802
+48,Asia,04801 
+49,Asia,04903
+49,Asia,04904
+49,Asia,04905
+50,Asia,05004
+50,Asia,05005
+50,Asia,05001 
+51,Asia,05102
+51,Asia,05104
+51,Asia,05103
+52,Asia,05201 
+52,Asia,05202
+52,Asia,05204
+53,Asia,05301 
+53,Asia,05303
+53,Asia,05304
+54,Asia,05401 
+54,Asia,05405
+54,Asia,05404
+55,Asia,05502
+55,Asia,05501 
+55,Asia,05505
+56,Asia,05605
+56,Asia,05602
+56,Asia,05604
+57,Asia,05702
+57,Asia,05703
+57,Asia,05704
+58,Asia,05805
+58,Asia,05801 
+58,Asia,05804
+59,Asia,05904
+59,Asia,05902
+59,Asia,05903
+60,Asia,06003
+60,Asia,06004
+60,Asia,06001 
+61,Asia,06102
+61,Asia,06105
+61,Asia,06104
+62,Asia,06202
+62,Asia,06205
+62,Asia,06203
+63,Asia,06302
+63,Asia,06304
+63,Asia,06305
+64,Asia,06401 
+64,Asia,06404
+64,Asia,06402
+65,Asia,06502
+65,Asia,06505
+65,Asia,06503
+66,Asia,06605
+66,Asia,06604
+66,Asia,06602
+67,Asia,06703
+67,Asia,06704
+67,Asia,06702
+68,Asia,06803
+68,Asia,06805
+68,Asia,06804
+69,Asia,06903
+69,Asia,06904
+69,Asia,06902
+70,Asia,07001 
+70,Asia,07003
+70,Asia,07005
+71,Asia,07103
+71,Asia,07102
+71,Asia,07101 
+72,Asia,07204
+72,Asia,07205
+72,Asia,07201 
+73,Asia,07303
+73,Asia,07302
+73,Asia,07304
+74,Asia,07405
+74,Asia,07404
+74,Asia,07402
+75,Asia,07503
+75,Asia,07505
+75,Asia,07504
+76,Asia,07602
+76,Asia,07605
+76,Asia,07601 
+77,Asia,07705
+77,Asia,07704
+77,Asia,07702
+78,Asia,07803
+78,Asia,07801 
+78,Asia,07802
+79,Asia,07901 
+79,Asia,07902
+79,Asia,07905
+80,Asia,08002
+80,Asia,08003
+80,Asia,08001 
+81,Asia,08105
+81,Asia,08104
+81,Asia,08103
+82,Asia,08202
+82,Asia,08201 
+82,Asia,08205
+83,Asia,08304
+83,Asia,08302
+83,Asia,08305
+84,Asia,08405
+84,Asia,08404
+84,Asia,08401 
+85,Asia,08502
+85,Asia,08501 
+85,Asia,08505
+86,Asia,08603
+86,Asia,08605
+86,Asia,08601 
+87,Asia,08701 
+87,Asia,08704
+87,Asia,08702
+88,Asia,08803
+88,Asia,08805
+88,Asia,08801 
+89,Asia,08905
+89,Asia,08902
+89,Asia,08904
+90,Asia,09003
+90,Asia,09004
+90,Asia,09001 
+91,Asia,09101 
+91,Asia,09102
+91,Asia,09103
+92,Asia,09201 
+92,Asia,09205
+92,Asia,09204
+93,Asia,09303
+93,Asia,09302
+93,Asia,09304
+94,Asia,09401 
+94,Asia,09402
+94,Asia,09403
+95,Asia,09501 
+95,Asia,09504
+95,Asia,09502
+96,Asia,09602
+96,Asia,09604
+96,Asia,09601 
+97,Asia,09705
+97,Asia,09704
+97,Asia,09702
+98,Asia,09803
+98,Asia,09805
+98,Asia,09802
+99,Asia,09905
+99,Asia,09901 
+99,Asia,09902
+100,Asia,10001 
+100,Asia,10005
+100,Asia,10002
+101,Asia,10104
+101,Asia,10105
+101,Asia,10103
+102,Asia,10202
+102,Asia,10204
+102,Asia,10201 
+103,Asia,10305
+103,Asia,10302
+103,Asia,10304
+104,Asia,10402
+104,Asia,10401 
+104,Asia,10405
+105,Asia,10502
+105,Asia,10503
+105,Asia,10501 
+106,Asia,10605
+106,Asia,10601 
+106,Asia,10604
+107,Asia,10701 
+107,Asia,10705
+107,Asia,10702
+108,Asia,10804
+108,Asia,10803
+108,Asia,10805
+109,Asia,10905
+109,Asia,10903
+109,Asia,10902
+110,Asia,11004
+110,Asia,11001 
+110,Asia,11003
+111,Asia,11103
+111,Asia,11104
+111,Asia,11101 
+112,Asia,11203
+112,Asia,11201 
+112,Asia,11202
+113,Asia,11301 
+113,Asia,11303
+113,Asia,11302
+114,Asia,11404
+114,Asia,11403
+114,Asia,11401 
+115,Asia,11503
+115,Asia,11501 
+115,Asia,11505
+116,Asia,11601 
+116,Asia,11602
+116,Asia,11605
+117,Asia,11701 
+117,Asia,11705
+117,Asia,11704
+118,Asia,11801 
+118,Asia,11802
+118,Asia,11804
+119,Asia,11904
+119,Asia,11901 
+119,Asia,11903
+120,Asia,12002
+120,Asia,12004
+120,Asia,12001 
+121,Asia,12102
+121,Asia,12103
+121,Asia,12105
+122,Asia,12203
+122,Asia,12204
+122,Asia,12201 
+123,Asia,12302
+123,Asia,12305
+123,Asia,12304
+124,Asia,12403
+124,Asia,12402
+124,Asia,12401 
+125,Asia,12503
+125,Asia,12504
+125,Asia,12502
+126,Asia,12603
+126,Asia,12602
+126,Asia,12604
+127,Asia,12701 
+127,Asia,12703
+127,Asia,12702
+128,Asia,12804
+128,Asia,12801 
+128,Asia,12803
+129,Asia,12902
+129,Asia,12904
+129,Asia,12905
+130,Asia,13002
+130,Asia,13001 
+130,Asia,13004
+131,Asia,13104
+131,Asia,13101 
+131,Asia,13103
+132,Asia,13205
+132,Asia,13201 
+132,Asia,13203
+133,Asia,13302
+133,Asia,13304
+133,Asia,13305
+134,Asia,13403
+134,Asia,13402
+134,Asia,13405
+135,Asia,13504
+135,Asia,13501 
+135,Asia,13503
+136,Asia,13604
+136,Asia,13603
+136,Asia,13602
+137,Asia,13703
+137,Asia,13705
+137,Asia,13702
+138,Asia,13802
+138,Asia,13804
+138,Asia,13801 
+139,Asia,13902
+139,Asia,13903
+139,Asia,13901 
+140,Asia,14004
+140,Asia,14001 
+140,Asia,14002
+141,Asia,14103
+141,Asia,14104
+141,Asia,14101 
+142,Asia,14202
+142,Asia,14205
+142,Asia,14204
+143,Asia,14301 
+143,Asia,14303
+143,Asia,14302
+144,Asia,14401 
+144,Asia,14405
+144,Asia,14404
+145,Asia,14505
+145,Asia,14501 
+145,Asia,14504
+146,Asia,14603
+146,Asia,14602
+146,Asia,14604
+147,Asia,14701 
+147,Asia,14704
+147,Asia,14703
+148,Asia,14805
+148,Asia,14804
+148,Asia,14802
+149,Asia,14903
+149,Asia,14901 
+149,Asia,14904
+150,Asia,15005
+150,Asia,15002
+150,Asia,15001 
+151,Asia,15102
+151,Asia,15104
+151,Asia,15101 
+152,Asia,15201 
+152,Asia,15203
+152,Asia,15202
+153,Asia,15301 
+153,Asia,15303
+153,Asia,15304
+154,Asia,15405
+154,Asia,15402
+154,Asia,15403
+155,Asia,15501 
+155,Asia,15502
+155,Asia,15503
+181,Africa,18102
+181,Africa,18105
+181,Africa,18103
+182,Africa,18205
+182,Africa,18204
+182,Africa,18201 
+183,Africa,18304
+183,Africa,18302
+183,Africa,18303
+184,Africa,18401 
+184,Africa,18405
+184,Africa,18402
+185,Africa,18501 
+185,Africa,18504
+185,Africa,18503
+186,Africa,18601 
+186,Africa,18603
+186,Africa,18605
+187,Africa,18703
+187,Africa,18701 
+187,Africa,18702
+188,Africa,18802
+188,Africa,18804
+188,Africa,18803
+189,Africa,18905
+189,Africa,18902
+189,Africa,18901 
+190,Africa,19005
+190,Africa,19002
+190,Africa,19003
+191,Africa,19105
+191,Africa,19101 
+191,Africa,19103
+192,Africa,19204
+192,Africa,19201 
+192,Africa,19205
+193,Africa,19303
+193,Africa,19305
+193,Africa,19301 
+194,Africa,19403
+194,Africa,19404
+194,Africa,19402
+195,Africa,19501 
+195,Africa,19502
+195,Africa,19504
+196,Africa,19601 
+196,Africa,19604
+196,Africa,19602
+197,Africa,19705
+197,Africa,19702
+197,Africa,19701 
+198,Africa,19805
+198,Africa,19803
+198,Africa,19802
+199,Africa,19905
+199,Africa,19901 
+199,Africa,19903
+200,Africa,20003
+200,Africa,20005
+200,Africa,20002
+201,Africa,20103
+201,Africa,20105
+201,Africa,20102
+202,Africa,20205
+202,Africa,20201 
+202,Africa,20204
+203,Africa,20304
+203,Africa,20303
+203,Africa,20305
+204,Africa,20401 
+204,Africa,20405
+204,Africa,20403
+205,Africa,20503
+205,Africa,20501 
+205,Africa,20502
+206,Africa,20604
+206,Africa,20601 
+206,Africa,20603
+207,Africa,20701 
+207,Africa,20704
+207,Africa,20703
+208,Africa,20804
+208,Africa,20802
+208,Africa,20805
+209,Africa,20902
+209,Africa,20905
+209,Africa,20901 
+210,Africa,21003
+210,Africa,21001 
+210,Africa,21002
+211,Africa,21104
+211,Africa,21102
+211,Africa,21101 
+212,Africa,21202
+212,Africa,21204
+212,Africa,21201 
+213,Africa,21304
+213,Africa,21302
+213,Africa,21301 
+214,Africa,21401 
+214,Africa,21403
+214,Africa,21402
+215,Africa,21502
+215,Africa,21501 
+215,Africa,21504
+216,Africa,21602
+216,Africa,21601 
+216,Africa,21605
+217,Africa,21701 
+217,Africa,21705
+217,Africa,21703
+218,Africa,21801 
+218,Africa,21802
+218,Africa,21804
+219,Africa,21903
+219,Africa,21902
+219,Africa,21901 
+220,Africa,22004
+220,Africa,22001 
+220,Africa,22003
+221,Africa,22103
+221,Africa,22102
+221,Africa,22104
+222,Africa,22203
+222,Africa,22202
+222,Africa,22201 
+232,Europe,23205
+232,Europe,23202
+232,Europe,23201 
+233,Europe,23304
+233,Europe,23305
+233,Europe,23303
+234,Europe,23404
+234,Europe,23402
+234,Europe,23403
+235,Europe,23505
+235,Europe,23502
+235,Europe,23501 
+236,Europe,23604
+236,Europe,23603
+236,Europe,23601 
+237,Europe,23705
+237,Europe,23701 
+237,Europe,23702
+238,Europe,23802
+238,Europe,23804
+238,Europe,23803
+239,Europe,23903
+239,Europe,23904
+239,Europe,23902
+240,Europe,24005
+240,Europe,24004
+240,Europe,24001 
+241,Europe,24105
+241,Europe,24102
+241,Europe,24101 
+242,Europe,24204
+242,Europe,24202
+242,Europe,24205
+243,Europe,24302
+243,Europe,24305
+243,Europe,24303
+244,Europe,24403
+244,Europe,24401 
+244,Europe,24402
+245,Europe,24505
+245,Europe,24503
+245,Europe,24504
+246,Europe,24605
+246,Europe,24604
+246,Europe,24603
+247,Europe,24704
+247,Europe,24703
+247,Europe,24702
+248,Europe,24803
+248,Europe,24804
+248,Europe,24805
+249,Europe,24905
+249,Europe,24901 
+249,Europe,24903
+250,Europe,25005
+250,Europe,25003
+250,Europe,25004
+251,Europe,25101 
+251,Europe,25103
+251,Europe,25105
+252,Europe,25203
+252,Europe,25202
+252,Europe,25204
+253,Europe,25301 
+253,Europe,25303
+253,Europe,25305
+254,Europe,25404
+254,Europe,25401 
+254,Europe,25405
+259,South America,25902
+259,South America,25901 
+259,South America,25905
+260,South America,26002
+260,South America,26001 
+260,South America,26005
+261,South America,26105
+261,South America,26103
+261,South America,26102
+262,South America,26202
+262,South America,26204
+262,South America,26205
+263,South America,26304
+263,South America,26305
+263,South America,26303
+264,South America,26402
+264,South America,26405
+264,South America,26403
+265,South America,26503
+265,South America,26501 
+265,South America,26502
+266,South America,26605
+266,South America,26604
+266,South America,26601 
+267,South America,26705
+267,South America,26701 
+267,South America,26704
+268,South America,26801 
+268,South America,26805
+268,South America,26804
+269,South America,26904
+269,South America,26903
+269,South America,26901 
+270,South America,27004
+270,South America,27005
+270,South America,27001 
+271,South America,27103
+271,South America,27104
+271,South America,27102
+272,South America,27201 
+272,South America,27202
+272,South America,27204
+273,South America,27304
+273,South America,27301 
+273,South America,27305
+274,South America,27403
+274,South America,27401 
+274,South America,27404
+275,South America,27505
+275,South America,27503
+275,South America,27501 
+276,South America,27603
+276,South America,27605
+276,South America,27601 
+277,South America,27702
+277,South America,27701 
+277,South America,27703
+278,South America,27802
+278,South America,27801 
+278,South America,27804
+279,South America,27905
+279,South America,27903
+279,South America,27904
+280,South America,28001 
+280,South America,28002
+280,South America,28004
+281,South America,28104
+281,South America,28105
+281,South America,28101 
+282,South America,28205
+282,South America,28202
+282,South America,28201 
+283,North America,28304
+283,North America,28301 
+283,North America,28305
+284,North America,28401 
+284,North America,28404
+284,North America,28402
+285,North America,28501 
+285,North America,28502
+285,North America,28504
+286,North America,28604
+286,North America,28602
+286,North America,28605
+287,North America,28702
+287,North America,28704
+287,North America,28703
+288,North America,28805
+288,North America,28801 
+288,North America,28803
+289,North America,28904
+289,North America,28905
+289,North America,28902
+290,North America,29004
+290,North America,29001 
+290,North America,29005
+291,North America,29104
+291,North America,29102
+291,North America,29101 
+292,North America,29204
+292,North America,29205
+292,North America,29203
+293,North America,29304
+293,North America,29301 
+293,North America,29302
+294,North America,29402
+294,North America,29401 
+294,North America,29403
+295,North America,29505
+295,North America,29503
+295,North America,29501 
+296,North America,29601 
+296,North America,29602
+296,North America,29605
+297,North America,29701 
+297,North America,29704
+297,North America,29705
+298,Oceania,29804
+298,Oceania,29802
+298,Oceania,29801 
+299,Oceania,29905
+299,Oceania,29901 
+299,Oceania,29902
+300,Oceania,30005
+300,Oceania,30001 
+300,Oceania,30002
